@@ -1,5 +1,9 @@
 # Cannon ball game
 
+As used in [Sookud, Martin, Gillan & Wise (2024)](https://osf.io/preprints/psyarxiv/zp6vk)
+
+🎮 **Play a demo [here](https://cannon-ball-demo.thewiselab.org/)!**
+
 ## Overview
 
 This task is an extension of the "Cannon Blast" game developed by the [Gillan Lab](https://gillanlab.com/), reported in [Donegan et al. (2023)](https://psyarxiv.com/hpm4s/).
@@ -39,7 +43,8 @@ The different configurations change the task format as follows:
 | Two-step task | Not shown | Pink/Purple | Shown | ❌ |
 | Model-free learning task | Not shown | Grey| N/A | ❌ |
 
-> ⚠ NOTE: The model-free learning task is not yet fully implemented.
+> [!NOTE]
+> The model-free learning task is not yet fully implemented.
 
 ### Modifying task outcomes
 
@@ -67,7 +72,8 @@ Some useful task settings can be specified through URL parameters. These are lis
 
 ### Data saving
 
-For this example repository, data saving is turned off and the code will need to modified slightly (detailed below) to save data to your own database.
+> [!IMPORTANT]
+> For this example repository, data saving is turned off and the code will need to modified slightly (detailed below) to save data to your own database.
 
 #### Google Firebase
 
