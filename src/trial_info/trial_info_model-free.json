@@ -1,0 +1,87 @@
+{
+    "0": {
+        "trial": 0,
+        "pinkOption1": 1,
+        "purpleOption1": 0,
+        "pinkOption2": 0,
+        "purpleOption2": 1,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    },
+    "1": {
+        "trial": 1,
+        "pinkOption1": 1,
+        "purpleOption1": 0,
+        "pinkOption2": 0,
+        "purpleOption2": 1,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    },
+    "2": {
+        "trial": 2,
+        "pinkOption1": 1,
+        "purpleOption1": 0,
+        "pinkOption2": 0,
+        "purpleOption2": 1,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    },
+    "3": {
+        "trial": 3,
+        "pinkOption1": 0,
+        "purpleOption1": 1,
+        "pinkOption2": 1,
+        "purpleOption2": 0,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    },
+    "4": {
+        "trial": 4,
+        "pinkOption1": 1,
+        "purpleOption1": 0,
+        "pinkOption2": 0,
+        "purpleOption2": 1,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    },
+    "5": {
+        "trial": 5,
+        "pinkOption1": 1,
+        "purpleOption1": 0,
+        "pinkOption2": 0,
+        "purpleOption2": 1,
+        "pinkExplode": 1,
+        "purpleExplode": 0,
+        "pinkExplodeChance": 1,
+        "purpleExplodeChance": 0,
+        "confidence": 0,
+        "confidenceScaling": 0,
+        "blockedSide": -1
+    }
+    
+}
