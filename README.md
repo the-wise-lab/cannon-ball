@@ -30,7 +30,7 @@ The task can be run in three different configurations, as described above. The t
 | Task Configuration                 | URL parameter value |
 |------------------------------------|---------------------|
 | Transition learning task (default) | `MB`                |
-| Two-step task                      | `MFMB`              |
+| Two-step task                      | `MBMF`              |
 | Model-free learning task           | `MF`                |
 
 If the `TASK` URL variable is not set, the task will default to the transition learning task.
